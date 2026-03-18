@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.0.2
+
+- Clone to a separate folder then move the repository into place to avoid deleting config files
+
 ## 9.0.1
 
 - Replace eval+extglob with find for restoring non-YAML files after clone
